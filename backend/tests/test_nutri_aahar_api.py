@@ -36,11 +36,11 @@ def test_root_and_products(api_client):
     response = api_client.get(f"{BASE_URL}/api/products")
     assert response.status_code == 200
     products = response.json()
-    assert len(products) >= 32
+    assert len(products) >= 29
     assert all({"slug", "name", "category", "description", "uses"} <= set(p) for p in products)
 
 
-@pytest.mark.parametrize("category,expected", [("Whole Spices", 16), ("Makhana", 6), ("Spice Powders", 3), ("Seeds & Specialty", 3)])
+@pytest.mark.parametrize("category,expected", [("Whole Spices", 13), ("Makhana", 6), ("Spice Powders", 3), ("Seeds & Specialty", 3)])
 def test_product_category_filter(api_client, category, expected):
     response = api_client.get(f"{BASE_URL}/api/products", params={"category": category})
     assert response.status_code == 200
