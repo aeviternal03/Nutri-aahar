@@ -1,4 +1,6 @@
-# Nutri-Aahar Product Requirements & Handoff
+# Nutri-Aahar
+<!-- 2026-06: Hero cover photo replaced with user-uploaded spice image (customer-assets URL in App.js bulkImg) -->
+ Product Requirements & Handoff
 
 ## Original problem statement
 Build a premium, modern, responsive website for Nutri-Aahar as a healthy/natural Indian food brand, B2B wholesale supplier and Indian food exporter. The website must combine Indian heritage, premium food photography, earthy luxury, vibrant spice accents and modern B2B professionalism. Required pages: Home, About, Products, B2B/Bulk Orders, Export, Request a Quote and Contact. Include reusable product cards, product details, enquiry forms, strong Request a Quote calls-to-action, responsive navigation, editable/unverified product fields, and avoid fabricated certifications, testimonials, export destinations, statistics or business claims.

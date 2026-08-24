@@ -8,7 +8,7 @@ import { Toaster, toast } from "sonner";
 const API = `${process.env.REACT_APP_BACKEND_URL}/api`;
 const logo = "https://customer-assets-gfyr7b9c.emergentagent.net/job_392b914b-998d-4c74-a5fa-c2ebde2fab14/artifacts/qzosvn0j_ChatGPT%20Image%20Jul%2029%2C%202025%2C%2008_01_56%20PM.png";
 const heroImg = "https://images.pexels.com/photos/18778270/pexels-photo-18778270.jpeg?auto=compress&cs=tinysrgb&w=1600";
-const bulkImg = "https://images.pexels.com/photos/15741144/pexels-photo-15741144/free-photo-of-market-stall-with-grains-and-spices.jpeg?auto=compress&cs=tinysrgb&w=1600";
+const bulkImg = "https://customer-assets-7cd3h4nn.emergentagent.net/job_premium-spice-export-9/artifacts/v0y244kz_image.png";
 const categories = ["Whole Spices", "Spice Powders", "Makhana", "Dry Fruits", "Dates", "Seeds & Specialty"];
 const testId = (text) => text.toLowerCase().replaceAll(" ", "-");
 
