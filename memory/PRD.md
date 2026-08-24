@@ -1,4 +1,5 @@
 # Nutri-Aahar
+<!-- 2026-06: Makhana expanded to 6 products (Raw White Bulk + 5 roasted flavours: Pink Salt, Black Salt, Pepper, Chilli Tomato, Cheese) with user-uploaded jar photos. Catalogue is now 32 products. All products enriched with benefits/nutrition/form details taken from the user's Google Slides deck (Bihar exim presentation). Product detail page renders Uses & benefits, Nutrition, Shelf life, Available form rows conditionally. Fonts: Manrope (headings) + Figtree (body). All page heroes use uploaded spice cover photo. -->
 <!-- 2026-06: Hero cover photo replaced with user-uploaded spice image (customer-assets URL in App.js bulkImg) -->
  Product Requirements & Handoff
 
