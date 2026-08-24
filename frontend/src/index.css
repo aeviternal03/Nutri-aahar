@@ -1,4 +1,4 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-html{scroll-behavior:smooth}body{margin:0;font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased}button,input,textarea{font-family:inherit}::selection{background:#d89b77;color:#173329}
+html{scroll-behavior:smooth}body{margin:0;font-family:'Figtree',sans-serif;-webkit-font-smoothing:antialiased}button,input,textarea{font-family:inherit}::selection{background:#d89b77;color:#173329}
