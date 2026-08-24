@@ -1,0 +1,62 @@
+{
+  "project": "Nutri-Aahar",
+  "archetype": "ORGANIC & EARTHY",
+  "theme": "light",
+  "typography": {
+    "headings": {
+      "font_family": "Playfair Display, serif",
+      "weights": ["600", "700", "800"],
+      "classes": "font-serif tracking-tight"
+    },
+    "body": {
+      "font_family": "Plus Jakarta Sans, sans-serif",
+      "weights": ["400", "500", "600"],
+      "classes": "font-sans leading-relaxed"
+    }
+  },
+  "colors": {
+    "primary": "#2D4A3E",
+    "primary_hover": "#233A30",
+    "accent": "#C87D55",
+    "background": "#FDFBF7",
+    "surface": "#F4EFE6",
+    "card": "#FFFFFF",
+    "text_main": "#1A2E26",
+    "text_muted": "#5C766C",
+    "border": "#E2DCB",
+    "success": "#2D4A3E"
+  },
+  "visual_enhancers": {
+    "border_radius": "rounded-2xl",
+    "shadows": "shadow-[0_10px_30px_rgba(45,74,62,0.06)]",
+    "backdrop_blur": "backdrop-blur-xl bg-[#FDFBF7]/80"
+  },
+  "image_urls": [
+    {
+      "category": "Hero & Spices",
+      "url": "https://images.pexels.com/photos/18778270/pexels-photo-18778270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Overhead shot of grains and spices in sacks at wholesale market"
+    },
+    {
+      "category": "Traditional Delicacies",
+      "url": "https://images.pexels.com/photos/7133662/pexels-photo-7133662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Close-up of traditional sweets and healthy laddoos"
+    },
+    {
+      "category": "Export & Warehouse",
+      "url": "https://images.pexels.com/photos/32851822/pexels-photo-32851822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Large agricultural warehouse with sorted grains and packaging"
+    },
+    {
+      "category": "Prepared Dish",
+      "url": "https://images.pexels.com/photos/34159111/pexels-photo-34159111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "South Indian biryani in traditional clay pot"
+    }
+  ],
+  "universal_guidelines": [
+    "Never use pure black or grey; tint neutrals with earthy forest green and warm sand undertones.",
+    "Ensure all interactive elements have data-testid attributes.",
+    "Use generous spacing (p-8 to p-12) and asymmetry in bento product grids.",
+    "Maintain high contrast ratios for accessibility across all text and buttons."
+  ]
+}
