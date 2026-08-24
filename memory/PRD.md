@@ -23,6 +23,9 @@ Build a premium, modern, responsive website for Nutri-Aahar as a healthy/natural
 - Backend enquiry persistence and product API, including Dates/Dry Fruits category aliases.
 - Responsive mobile menu, mobile layout, hover states, editorial typography and earthy palette.
 - Verified with production build, JavaScript/Python lint, API tests and browser flow tests.
+- Browser title, meta description, keywords and Open Graph tags rebranded to Nutri-Aahar (24 Aug 2026).
+- Full catalogue expansion to 27 products covering all 16 listed whole spices, spice powders, makhana, dates, dry fruits and seeds/specialty; all product images verified live (24 Aug 2026).
+- User-requested visual edits: full tagline in header, bulk Indian spice market hero photo, distinct imagery per category card incl. dedicated Dates photo (24 Aug 2026).
 
 ## Prioritized backlog
 - P0: Add verified business email, phone, address and registration details when available.
